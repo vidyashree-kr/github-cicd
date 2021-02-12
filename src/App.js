@@ -13,9 +13,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Its React
+          React App
         </a>
-        <p>Hello, This is Vidya from IKEA! </p>
+        <p>Hello!</p>
         <p>Welcome to Google cloud automatic build and deployment using git hub actions.</p> 
       </header>
     </div>
