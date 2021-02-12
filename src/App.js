@@ -7,18 +7,16 @@ function App() {
       <header className="App-header">
         <h1>Successfully deployed</h1>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Its React
         </a>
-        <p>Hello Vidya Welcome to Google cloud automatic run using git hub actions </p>
+        <p>Hello, This is Vidya from IKEA! </p>
+        <p>Welcome to Google cloud automatic build and deployment using git hub actions.</p> 
       </header>
     </div>
   );
