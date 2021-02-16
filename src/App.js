@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Successfully deployed</h1>
+        <h1>Successfully deployed Demo</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
@@ -15,8 +15,7 @@ function App() {
         >
           React App
         </a>
-        <p>Hello!</p>
-        <p>Welcome to Google cloud automatic build and deployment using git hub actions.</p> 
+        <p>Hello World!</p>
       </header>
     </div>
   );
