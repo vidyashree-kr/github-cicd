@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React Application</h1>
+        <h1>React Application, deploying to google cloud run instance</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
