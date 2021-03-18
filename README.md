@@ -1,4 +1,4 @@
-Google cloud automatic build and deployment using git hub actions
+Google cloud automatic build and deployment using git hub actions.
 Reference URL - https://medium.com/swlh/deploying-a-react-app-to-google-cloud-run-with-github-actions-ae24ac6cb85a#3a24
 
 
